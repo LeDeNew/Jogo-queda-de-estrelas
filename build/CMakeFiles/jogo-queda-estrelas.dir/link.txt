@@ -1,0 +1,3 @@
+C:\CMake\bin\cmake.exe -E rm -f CMakeFiles\jogo-queda-estrelas.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\jogo-queda-estrelas.dir/objects.a @CMakeFiles\jogo-queda-estrelas.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\jogo-queda-estrelas.dir/objects.a -Wl,--no-whole-archive -o jogo-queda-estrelas.exe -Wl,--out-implib,libjogo-queda-estrelas.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\jogo-queda-estrelas.dir\linkLibs.rsp

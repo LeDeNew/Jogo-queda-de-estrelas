@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Codigos/Trabalho Final/Jogo-queda-de-estrelas/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -O3 -DNDEBUG -o CMakeFiles\\jogo-queda-estrelas.dir\\main.cpp.obj -c \"D:\\Codigos\\Trabalho Final\\Jogo-queda-de-estrelas\\main.cpp\"",
+  "file": "D:/Codigos/Trabalho Final/Jogo-queda-de-estrelas/main.cpp",
+  "output": "CMakeFiles/jogo-queda-estrelas.dir/main.cpp.obj"
+}
+]
